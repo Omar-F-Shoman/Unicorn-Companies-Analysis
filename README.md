@@ -80,5 +80,3 @@ ORDER BY year DESC, num_unicorns DESC;
 ## Tech Stack
 
 - SQL
-
-تم تعديل الـ README ليشمل التقنيات جنب بعض.
